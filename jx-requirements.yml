@@ -6,8 +6,8 @@ spec:
     schedule: ""
   cluster:
     devEnvApprovers:
-    - todo
-    environmentGitOwner: todo
+    - umairbajwa
+    environmentGitOwner: umairbajwa
     gitKind: github
     gitName: github
     gitServer: https://github.com
@@ -18,7 +18,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "umairbajwa.net"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
